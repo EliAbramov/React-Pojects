@@ -1,0 +1,10 @@
+body {
+    background-color: cadetblue;
+}
+
+.header {
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+}

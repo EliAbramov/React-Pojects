@@ -1,0 +1,22 @@
+body {
+  border: 2px inset darkslategray;
+}
+
+.App {
+  text-align: center;
+}
+
+.room {
+  text-align: center;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+
+.product {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid black; 
+  padding: 10px;
+}
